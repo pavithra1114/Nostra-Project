@@ -1,32 +1,32 @@
 # 🛍️ Nostra - E-commerce Website
 
-**Nostra** is a fully responsive E-commerce website built using **HTML, CSS, and JavaScript**.  
+Nostra is a fully responsive E-commerce website built using **HTML, CSS, and JavaScript**.  
 This project includes multiple pages and supports **Search** and **Filter** functionality on the Collections page.
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** 
+🔗 https://pavithra1114.github.io/Nostra-Project/
 
 ---
 
-## 📌 Features
+## 📌 Project Features
 
-✅ Fully Responsive Design  
+✅ Fully Responsive Website  
 ✅ Home Page  
 ✅ Collections Page  
 ✅ Contact Us Page  
-✅ Product Search Functionality  
-✅ Product Filter Functionality using JavaScript  
+✅ Search Functionality (Collections Page)  
+✅ Filter Functionality (Collections Page)  
 
 ---
 
 ## 📄 Pages Included
 
-- **Home Page** (`index.html`)
-- **Collections Page** (`collections.html`)
-- **Contact Us Page** (`contact.html`)
+- **index.html** – Home Page  
+- **collections.html** – Collections Page  
+- **contact.html** – Contact Us Page  
 
 ---
 
@@ -38,4 +38,21 @@ This project includes multiple pages and supports **Search** and **Filter** func
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🔍 Search Functionality
+
+Users can search products on the **Collections Page** by typing keywords.  
+Products will automatically filter based on the search input.
+
+---
+
+## 🎯 Filter Functionality
+
+Users can filter products by categories using JavaScript.  
+This helps in finding products easily and quickly.
+
+--
+
+## 📁 Project Structure
